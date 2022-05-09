@@ -1,6 +1,6 @@
 # Welcome to the Zerto GitHub
 
-Welcome to the Zerto GitHub! this is the place where you can find, share and contribute to projects related to [Zerto](https://www.zerto.com) and its APIs.
+Welcome to the Zerto GitHub! This is where you can find, share and contribute to projects related to [Zerto](https://www.zerto.com) and its APIs.
 
 ## Community support:
 All projects shared on this Github page are supported by its creator or the community on a best effort basis without any obligations. Read more in the [Disclaimer](https://github.com/ZertoPublic/Welcome-to-the-Zerto-Public-Github/blob/master/DISCLAIMER.md).
